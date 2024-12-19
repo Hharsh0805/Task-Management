@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://task-management-api-xi.vercel.app/api';
+const API_URL = 'https://task-management-api-xi.vercel.app/';
 
 export const signup = async (email, password) => {
   try {
