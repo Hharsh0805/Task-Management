@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { getToken } from './authService';
 
-const API_URL = 'https://authentication-app-api-bay.vercel.app/';
+const API_URL = 'https://task-management-api-xi.vercel.app';
 
 const authHeader = () => {
   const token = getToken();

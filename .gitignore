@@ -1,6 +1,6 @@
 # Node.js
 node_modules/
-.env
+/backend/.env
 
 # Python
 __pycache__/
